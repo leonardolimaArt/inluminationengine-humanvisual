@@ -1,7 +1,6 @@
 # Human Visualization v0.2 
-<br>Correction Log:
-<br>  ▪ Corrigido problema de exceção de memoria ao sair do fullscreen.
-<br>  ▪ Adicionado função para fullscreen para o usuário.
+  ▪ Fixed memory exception issue when exiting fullscreen.<br>
+  ▪ Added fullscreen function for the user.
 
 # Download Links
 Windows Build: https://drive.google.com/file/d/1w-12kjUdcvdxk-Y5jBOv3DruK_YHklO0/view?usp=sharing
