@@ -3,8 +3,8 @@
 # Download Links
 Windows Build: https://drive.google.com/file/d/1w-12kjUdcvdxk-Y5jBOv3DruK_YHklO0/view?usp=sharing
 <br>Correction Log:
-<br>▪Corrigido problema de exceção de memoria ao sair do fullscreen.
-<br>▪Adicionado função para fullscreen para o usuário.
+<br>  ▪ Corrigido problema de exceção de memoria ao sair do fullscreen.
+<br>  ▪ Adicionado função para fullscreen para o usuário.
 
 # Human Visualization v0.1 
 
