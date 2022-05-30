@@ -1,7 +1,10 @@
-# Human Visualization v0.1 
+# Human Visualization v0.2 
 
 # Download Links
 Windows Build: https://drive.google.com/file/d/1w-12kjUdcvdxk-Y5jBOv3DruK_YHklO0/view?usp=sharing
+Correction Log:
+  *Corrigido problema de exceção de memoria ao sair do fullscreen.
+  *Adicionado função para fullscreen para o usuário.
 
 # Human Visualization v0.1 
 
