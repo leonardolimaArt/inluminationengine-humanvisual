@@ -12,7 +12,7 @@ Windows Build: https://drive.google.com/file/d/1w-12kjUdcvdxk-Y5jBOv3DruK_YHklO0
 Windows Build: https://drive.google.com/file/d/1eBwLwWPrtYojv3J1tWcazZd1WXpFhZF3/view?usp=sharing
 # Video Demo
 
-[![texto](https://youtu.be/Ovqamhx-IK8)](https://youtu.be/Ovqamhx-IK8 "texto")
+[![texto](https://i3.ytimg.com/vi/Ovqamhx-IK8/maxresdefault.jpg)](https://youtu.be/Ovqamhx-IK8 "texto")
 # ReadMe
 ![alt text](https://github.com/leonardolimaArt/inluminationengine-humanvisual/blob/main/readme-images/Slide1.jpg)
 ![alt text](https://github.com/leonardolimaArt/inluminationengine-humanvisual/blob/main/readme-images/Slide2.jpg)
