@@ -3,13 +3,10 @@
   ▪ Added fullscreen function for the user.
 
 # Download Links
-Windows Build: https://drive.google.com/file/d/1w-12kjUdcvdxk-Y5jBOv3DruK_YHklO0/view?usp=sharing
+Windows Build: https://drive.google.com/file/d/1JftE4geuKs3VJiWFXHcH_GCPQv0f5T3K/view?usp=sharing
 
 
 # Human Visualization v0.1 
-
-# Download Links
-Windows Build: https://drive.google.com/file/d/1eBwLwWPrtYojv3J1tWcazZd1WXpFhZF3/view?usp=sharing
 
 # ReadMe
 ![alt text](https://github.com/leonardolimaArt/inluminationengine-humanvisual/blob/main/readme-images/Slide1.jpg)
